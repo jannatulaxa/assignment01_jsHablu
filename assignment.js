@@ -51,4 +51,4 @@
 // console.log(sum)
 
 // asignment.js - GitHub Link 
-// ans: var numType =30;
+// ans: https://github.com/jannatulaxa/assignment01_jsHablu
